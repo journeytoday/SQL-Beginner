@@ -66,8 +66,8 @@ Codecademy SQL Course - A paid SQL course from Codecademy
 
 # Certification
 If you're looking to demonstrate your SQL skills to potential employers, there are a variety of certification programs available. Here are a few recommended SQL certification programs:
-Microsoft SQL Server Certification - Microsoft's SQL Server certification program
-Oracle SQL Certification - Oracle's SQL certification program
+Microsoft SQL Server Certification - Microsoft's SQL Server certification program.
+Oracle SQL Certification - Oracle's SQL certification program.
 MySQL Certification - MySQL's certification program.
 
 # Conclusion
